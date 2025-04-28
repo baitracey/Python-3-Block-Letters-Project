@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python 3 Block Letters Project", "Python 3 Block Letters Project\Python 3 Block Letters Project.pyproj", "{DF0E2B86-83D0-4DB6-8AD0-CB4FBC73376D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0E2B86-83D0-4DB6-8AD0-CB4FBC73376D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0E2B86-83D0-4DB6-8AD0-CB4FBC73376D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3EDC786-3680-4649-9990-255E29496BAE}
+	EndGlobalSection
+EndGlobal
