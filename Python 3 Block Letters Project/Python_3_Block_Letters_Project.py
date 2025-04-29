@@ -1,7 +1,7 @@
 #Bailey Tracey
-#I have a lot of tattoos
 
 print ("""
+
 B B B B
 B       B
 B       B
